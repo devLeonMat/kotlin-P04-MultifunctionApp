@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultifuntionApp</string>
+    <string name="btn_Calcular">Calculate your Age</string>
+    <string name="btn_Sgte">Next</string>
+    <string name="txt_anio">"Year of birth "</string>
+    <string name="main_longToast">Simple mortal. this is an anko toast</string>
+    <string name="main_alert_msj">Hello, do you like Anko Alert?</string>
+    <string name="main_alert_titulo">TERRICOLA ALERT</string>
+    <string name="main_alert_btn_positivo">Great</string>
+    <string name="main_alert_btn_negativo">Ohh....</string>
+    <string name="main_preg_pais">Where are you from?</string>
+    <string name="progres_dialog">progress dialog</string>
+    <string name="list_alert">List Alert</string>
+    <string name="simple_alert">simple alert</string>
+
+</resources>

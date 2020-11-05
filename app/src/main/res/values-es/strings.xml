@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultifuncionApp</string>
+    <string name="btn_Calcular">Calcula tu Edad</string>
+    <string name="btn_Sgte">Siguiente</string>
+    <string name="txt_anio">Año de Nacimiento</string>
+    <string name="main_longToast">Simple mortal. este es un anko toast</string>
+    <string name="main_alert_msj">Hola Te Gusta Anko Alert???</string>
+    <string name="main_alert_titulo">ALERTA TERRICOLA</string>
+    <string name="main_alert_btn_positivo">Genial</string>
+    <string name="main_alert_btn_negativo">Ohh....</string>
+    <string name="main_preg_pais">De Donde Eres?</string>
+    <string name="progres_dialog">Dialogo de Progreso</string>
+    <string name="list_alert">Listado de Alertas</string>
+    <string name="simple_alert">alerta simple</string>
+</resources>
